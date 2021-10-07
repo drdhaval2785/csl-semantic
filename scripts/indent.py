@@ -11,9 +11,7 @@ import sys
 import os
 
 
-if __name__ == "__main__":
-	filein = sys.argv[1]
-	fileout = sys.argv[2]
+def adjust_text(filein, fileout):
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	for lin in fin:
@@ -29,3 +27,8 @@ if __name__ == "__main__":
 	fin.close()
 	fout.close()
 
+
+if __name__ == "__main__":
+	filein = sys.argv[1]
+	fileout = sys.argv[2]
+	adjust_text(filein, fileout)
