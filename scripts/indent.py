@@ -18,14 +18,14 @@ def remove_line_breaks(entry):
 	return entry
 
 
-def insert_tabs(entry, indent='\t'):
-	entry = entry.replace('{@--Comp.@}', '\n' + '{@--Comp.@}')
-	entry = entry.replace('{#--', '\n' + indent*2 + '{#--')
-	entry = entry.replace('¦ {%', '¦ \n' + indent*2 + '{%')
-	entry = re.sub('{%\-\-(.*?)%} ', '\n' + indent*2 + '{%--\g<1>%} \n' + indent*4, entry)
-	entry = re.sub('\[({.*?)\] ', '\n' + indent*3 + '[\g<1>] \n' + indent*4 , entry)
-	entry = re.sub('({@\-\-[0-9])', '\n' + indent*4 + '\g<1>', entry)
-	entry = entry.replace('<P>', '\n' + indent*4 + '<P>')
+def insert_tabs(entry, t='\t', l='\n'):
+	entry = entry.replace('{@--Comp.@}', l + '{@--Comp.@}')
+	entry = entry.replace('{#--', l + t*2 + '{#--')
+	entry = entry.replace('¦ {%', '¦ ' + l + t*2 + '{%')
+	entry = re.sub('{%\-\-(.*?)%} ', l + t*2 + '{%--\g<1>%} ' + l + t*4, entry)
+	entry = re.sub('\[({.*?)\] ', l + t*3 + '[\g<1>] ' + l + t*4 , entry)
+	entry = re.sub('({@\-\-[0-9])', l + t*4 + '\g<1>', entry)
+	entry = entry.replace('<P>', l + t*4 + '<P>')
 	return entry
 
 
