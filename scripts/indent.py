@@ -11,6 +11,12 @@ import sys
 import os
 
 
+def remove_line_breaks(entry):
+	entry = entry.replace('\n<>', ' ')
+	entry = re.sub('[ ]+', ' ', entry)
+	return entry
+
+
 def adjust_text(filein, fileout):
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')
@@ -20,9 +26,9 @@ def adjust_text(filein, fileout):
 			fout.write(lin)
 			entry = ''
 		elif lin.startswith('<LEND>'):
-			fout.write(entry + '\n' + lin)
+			entry = remove_line_breaks(entry)
+			fout.write(entry + lin)
 		else:
-			lin = lin.rstrip()
 			entry += lin
 	fin.close()
 	fout.close()
