@@ -20,6 +20,7 @@ def remove_line_breaks(entry):
 
 def insert_tabs(entry, indent='\t'):
 	entry = entry.replace('{@--Comp.@}', '\n' + '{@--Comp.@}')
+	entry = entry.replace('{#--', '\n' + indent + indent + '{#--')
 	return entry
 
 
