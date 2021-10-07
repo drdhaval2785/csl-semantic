@@ -21,6 +21,7 @@ def remove_line_breaks(entry):
 def insert_tabs(entry, indent='\t'):
 	entry = entry.replace('{@--Comp.@}', '\n' + '{@--Comp.@}')
 	entry = entry.replace('{#--', '\n' + indent*2 + '{#--')
+	entry = entry.replace('¦ {%', '¦ \n' + indent*2 + '{%')
 	entry = re.sub('{%\-\-(.*?)%} ', '\n' + indent*2 + '{%--\g<1>%} \n' + indent*4, entry)
 	entry = re.sub('\[({.*?)\] ', '\n' + indent*3 + '[\g<1>] \n' + indent*4 , entry)
 	entry = re.sub('({@\-\-[0-9])', '\n' + indent*4 + '\g<1>', entry)
@@ -38,7 +39,7 @@ def adjust_text(filein, fileout):
 		elif lin.startswith('<LEND>'):
 			entry = remove_line_breaks(entry)
 			entry = insert_tabs(entry)
-			fout.write(entry + lin)
+			fout.write(entry + '\n' + lin)
 		else:
 			entry += lin
 	fin.close()
