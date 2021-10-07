@@ -25,6 +25,7 @@ def insert_tabs(entry, indent='\t'):
 	entry = re.sub('{%\-\-(.*?)%} ', '\n' + indent*2 + '{%--\g<1>%} \n' + indent*4, entry)
 	entry = re.sub('\[({.*?)\] ', '\n' + indent*3 + '[\g<1>] \n' + indent*4 , entry)
 	entry = re.sub('({@\-\-[0-9])', '\n' + indent*4 + '\g<1>', entry)
+	entry = entry.replace('<P>', '\n' + indent*4 + '<P>')
 	return entry
 
 
