@@ -1,8 +1,8 @@
 <L>1<pc>0001-a<k1>a<k2>a
 {#a#}¦ The first letter of the Nāgarī Alphabet. 
 		{#--aH#} 
-			[{#avati, atati#} <lbinfo n="sAta#tvena"/> {#sAtatvena tizWatIti vA; av-at vA, qa#} <ls>Tv.</ls>]
-				 {@1@} <ab>N.</ab> of Viṣṇu, the first of the three sounds constituting the sacred syllable {#om#}; {#akAro vizRuruddizwa#} <lbinfo n="ukAra#stu"/> {#ukArastu maheSvaraH . makArastu smfto brahmA praRavastu#} {#trayAtmakaH ..#}; for more explanation of the three syllables {#a, u, m#} see {#om#}. 
+			[{#avati, atati#} <lbinfo n="sAta#tvena"/> {#sAtatvena tizWatIti vA; av-at vA, qa#} <ls>Tv.</ls>] 
+				{@1@} <ab>N.</ab> of Viṣṇu, the first of the three sounds constituting the sacred syllable {#om#}; {#akAro vizRuruddizwa#} <lbinfo n="ukAra#stu"/> {#ukArastu maheSvaraH . makArastu smfto brahmA praRavastu#} {#trayAtmakaH ..#}; for more explanation of the three syllables {#a, u, m#} see {#om#}. 
 				{@--2@} <ab>N.</ab> of Śiva, Brahmā, Vāyu, or <lbinfo n="Vaiśvā+nara"/> Vaiśvānara. {%--<ab>ind.</ab>%} {@1@} A prefix corresponding to Latin {%in%}, <ab>Eng.</ab> {%in%} or {%un%}, <ab>Gr.</ab> {%a%} or {%an%}, and joined to nouns, adjectives, indeclinables (or even to verbs) as a substitute for the negative <lbinfo n="parti+cle"/> particle {#naY#}, and changed to {#an#} before vowels except in the word {#a-fRin#}. The senses of {#na#} usually <lbinfo n="enumerat+ed"/> enumerated are six- ({%a%}) {#sAdfSya#} ‘likeness’ or ‘resemblance’; {#abrAhmaRaH#} one like a Brāhmaṇa (wearing the sacred thread &c.), but not a Brāhmaṇa, but a Kṣatriya, or Vaiśya; {#anikzu#} : a reed appearing like {#ikzu#}, but not a true {#ikzu#}. ({%b%}) {#aBAva#} ‘absence’, ‘negation’, ‘want’, ‘privation’; {#ajYAnaM#} absence of <lbinfo n="know+ledge"/> knowledge, ignorance; {#akroDaH, anaMgaH, akaMwakaH#}, {#aGawaH#} &c. ({%c%}) {#Beda#} ‘difference’ or <lbinfo n="‘dis+tinction"/> ‘distinction’; {#apawaH#} not a cloth, <lbinfo n="some+thing"/> something different from, or other than, a cloth. ({%d%}) {#alpatA#} ‘smallness’, ‘diminution’, used as a diminutive particle; {#anudarA#} having a slender waist ({#kfSodarI#} or {#tanumaDyamA#}). ({%e%}) {#aprASastya#} ‘badness,’ ‘unfitness,’ having a depreciative sense; {#akAlaH#} wrong or improper time; {#akAryaM#} not fit to be done, improper, unworthy, bad act. ({%f%}) {#viroDa#} ‘opposition’, <lbinfo n="‘con+trariety"/> ‘contrariety’; {#anItiH#} the opposite of morality, immorality; {#asita#} not [Page0001-b+ 45] white, black; {#asura#} not a god, a demon &c. These senses are put <lbinfo n="to+gether"/> together in the following verse: --{#tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA .#} <lbinfo n="aprA#SastyaM"/> {#aprASastyaM viroDaSca naYarTAH zaw prakIrtitAH ..#} See {#na#} also. With verbal derivatives, such as gerunds, infinitives, participles, it has usually the sense of ‘not’; {#adagDvA#} not having burnt: {#apaSyan#} not seeing; so {#asakft#} not once; {#amfzA, akasmAt#} &c. Sometimes {#a#} does not affect the sense of the second member; {#a-paScima#} that which has no last, {%<ab>i. e.</ab>%} last; {#anuttama#} having no superior, <lbinfo n="unsur+passed"/> unsurpassed, most excellent; for examples see the words. 
 				{@--2@} An interjection of ({%a%}) Pity ({%ah!%}) {#a avadyaM#} <ls>P. I. 1. 14</ls> <ls>Sk.</ls> ({%b%}) Reproach, censure (fie, shame); {#apacasi tvaM jAlma#} <ls>P. VI. 3. 73</ls> <ab>Vārt.</ab> See {#akaraRi, ajIvani#} also. ({%c%}) Used in addressing; {#a anaMta#}. ({%d%}) It is also used as a particle of prohibition. 
 				{@--3@} The augment <lbinfo n="pre+fixed"/> prefixed to the root in the formation of the Imperfect, Aorist and <lbinfo n="Condi+tional"/> Conditional Tenses.<P>{%N-B%}. --The application of this <lbinfo n="priva+tive"/> privative prefix is practically unlimited; to give every possible case would almost amount to a dictionary itself. No <lbinfo n="at+tempt"/> attempt will, therefore, be made to give {%every possible%} combination of this prefix with a following word; only such words as require a special explanation, or such as most frequently occur in the <lbinfo n="liter+ature"/> literature and enter into compounds, with other words, will be given; others will be found self-explaining when the English ‘in,’ ‘un,’ or ‘not,’ is substituted for {#a#} or {#an#} before the meaning of the second word, or the sense may be expressed by ‘less,’ ‘free from,’ ‘devoid or destitute of’ &c; {#akaTya#} unspeakable; {#adarpa#} <lbinfo n="with+out"/> without pride, or freedom from pride; <lbinfo n="apraga#lBa"/> {#apragalBa#} not bold; {#aBaga#} unfortunate; {#avitta#} [Page0001-c+ 42] destitute of wealth &c. &c. In many cases such compounds will be found <lbinfo n="ex+plained"/> explained under the second member. Most compounds beginning with {#a#} or {#an#} are either Tatpuruṣa or Bahuvrīhi (to be determined by the sense) and should be so dissolved.<LEND>
@@ -12,8 +12,8 @@
 {#aMS#}¦ {c10c} <ab>U.</ab> {#aMSayati-te#} To divide, distribute, share among; also <lbinfo n="aMSApa#yati"/> {#aMSApayati#} in this sense.<LEND>
 <L>4<pc>0001-c<k1>aMSaH<k2>aMSaH
 {#aMSaH#}¦ 
-			[{#aMS ac#}]
-				 {@1@} A share, part, portion, division; member; {#sakfdaMSo#} {#nipatati#} <ls>Ms. 9. 47</ls>; {#turyAMSaH#} a fourth part; {#zazWa°; mamEvAMSo jIvaloke#} <lbinfo n="jIva#BUtaH"/> {#jIvaBUtaH sanAtanaH#} <ls>Bg. 15. 7</ls>; {#BuvamaMSAviva#} {#DarmayorgatO#} <ls>R. 8. 16</ls>; {#aMSena#} <lbinfo n="darSi#tAnukUlatA"/> {#darSitAnukUlatA#} <ls>K. 159</ls> partly. 
+			[{#aMS ac#}] 
+				{@1@} A share, part, portion, division; member; {#sakfdaMSo#} {#nipatati#} <ls>Ms. 9. 47</ls>; {#turyAMSaH#} a fourth part; {#zazWa°; mamEvAMSo jIvaloke#} <lbinfo n="jIva#BUtaH"/> {#jIvaBUtaH sanAtanaH#} <ls>Bg. 15. 7</ls>; {#BuvamaMSAviva#} {#DarmayorgatO#} <ls>R. 8. 16</ls>; {#aMSena#} <lbinfo n="darSi#tAnukUlatA"/> {#darSitAnukUlatA#} <ls>K. 159</ls> partly. 
 				{@--2@} A share in property, inheritance; {#svatoMSataH#} <ls>Ms. 8. 408</ls>; {#anaMSO klIbapatitO#} <ls n="Ms.">9. 201</ls>; {#patnyaH kAryAH samAMSikAH#} <ls>Y. 2. 115.</ls> 
 				{@--3@} The numerator of a fraction; <lbinfo n="anyo#nyahArABihatO"/> {#anyonyahArABihatO harAMSO#} <ls>Līlā.</ls>; sometimes used for fraction itself. 
 				{@--4@} A degree of latitude (or longitude); {#akzasyAMSAH#} {#samAKyAtAH zazwyuttaraSatatrayam; sa ca aMSaH#} {#zazwikalAtmakaH, kalA tu zazwivikalAtmikA#}. 
@@ -21,34 +21,34 @@
 				{@--6@} <ab>N.</ab> of one of the Ādityas. The senses of ‘party’, ‘a share of booty,’ ‘earnest money’, which are said to occur in the Veda are traceable to 1. above. 
 {@--Comp.@} <lbinfo n="--aM#SaH"/> 
 		{#--aMSaH#} 
-			[{#za#}. {#ta#}.]
-				 a secondary incarnation; part of a portion. 
+			[{#za#}. {#ta#}.] 
+				a secondary incarnation; part of a portion. 
 		{#--aMSi#} {%<ab>adv.</ab>%} share by share. 
 		{#--avatAraH#} 
 		{#--taraRaM#} 
-			[{#za#}. {#ta#}.]
-				 descent (on earth) of parts of deities, partial [Page0002-a+ 60] incarnation; {#°tAra iva Darmasya#} <ls>Dk. 153</ls>; {#°ramiva kftAMtasya#} <ls>K. 31</ls>; {#uccEHSravasaH#} <ls n="K.">79</ls>; so {#aMSAvatIrRamiva#} <ls n="K.">108</ls>; <ab>N.</ab> of Adhyāyas 64-67 of Ādiparvan of Bhārata. <lbinfo n="--BA#j"/> 
+			[{#za#}. {#ta#}.] 
+				descent (on earth) of parts of deities, partial [Page0002-a+ 60] incarnation; {#°tAra iva Darmasya#} <ls>Dk. 153</ls>; {#°ramiva kftAMtasya#} <ls>K. 31</ls>; {#uccEHSravasaH#} <ls n="K.">79</ls>; so {#aMSAvatIrRamiva#} <ls n="K.">108</ls>; <ab>N.</ab> of Adhyāyas 64-67 of Ādiparvan of Bhārata. <lbinfo n="--BA#j"/> 
 		{#--BAj#}, 
 		{#--hara, --hArin#} {%<ab>m.</ab>%} {%<ab>f.</ab>%} 
-			[{#upa#}. {#samAsa#}]
-				 one who takes or has a share, one entitled to a share in the ancestral property, an heir, a coheir; {#piMqadoMSaharaScEzAM#} <lbinfo n="pUrvA#BAve"/> {#pUrvABAve paraH paraH#} <ls>Y. 2. 132</ls>; {#jAtopi dAsyAM#} {#SUdreRa kAmatoMSaharo Bavet#} <ls n="Y. 2.">133.</ls> 
+			[{#upa#}. {#samAsa#}] 
+				one who takes or has a share, one entitled to a share in the ancestral property, an heir, a coheir; {#piMqadoMSaharaScEzAM#} <lbinfo n="pUrvA#BAve"/> {#pUrvABAve paraH paraH#} <ls>Y. 2. 132</ls>; {#jAtopi dAsyAM#} {#SUdreRa kAmatoMSaharo Bavet#} <ls n="Y. 2.">133.</ls> 
 		{#--vivartin#} {%<ab>a.</ab>%} 
-			[{#sa#}. {#ta#}.]
-				 slightly turned away, or turned away towards the shoulder; {#muKamaMSavivarti pakzmalAkzyAH#} <ls>Ś. 3. 26</ls> <ab>v. l.</ab> for {#aMsavivarti#}. 
+			[{#sa#}. {#ta#}.] 
+				slightly turned away, or turned away towards the shoulder; {#muKamaMSavivarti pakzmalAkzyAH#} <ls>Ś. 3. 26</ls> <ab>v. l.</ab> for {#aMsavivarti#}. 
 		{#--savarRanaM#} 
-			[{#za#}. {#ta#}.]
-				 <lbinfo n="reduc+tion"/> reduction of fractions to the same <lbinfo n="denom+inator"/> denominator ({#atulyacCedayo rASyoH samacCedakaraRaM#}) {#anyonyahArABihatO harAMSO rASyoH#} <lbinfo n="samacCe#daviDAnamevam"/> {#samacCedaviDAnamevam#} <ls>Līlā.</ls> 
+			[{#za#}. {#ta#}.] 
+				<lbinfo n="reduc+tion"/> reduction of fractions to the same <lbinfo n="denom+inator"/> denominator ({#atulyacCedayo rASyoH samacCedakaraRaM#}) {#anyonyahArABihatO harAMSO rASyoH#} <lbinfo n="samacCe#daviDAnamevam"/> {#samacCedaviDAnamevam#} <ls>Līlā.</ls> 
 		{#--svaraH#} the keynote.<LEND>
 <L>5<pc>0002-a<k1>aMSakaH<k2>aMSakaH
 {#aMSakaH#}¦ 
-			[{#aMa-nvul; aMSikA#} {%<ab>f.</ab>%}]
-				 {@1@} One having a share, a coheir, relative. 
+			[{#aMa-nvul; aMSikA#} {%<ab>f.</ab>%}] 
+				{@1@} One having a share, a coheir, relative. 
 				{@--2@} ({#svArTe kan#}) A share, portion, division; {#triMSAMSakastaTA#} <lbinfo n="rASerBAgEtya#BiDIyate"/> {#rASerBAgEtyaBiDIyate; dviBartfkA mezanavAMSake syAt#}, <lbinfo n="vfzAM#Sake"/> {#vfzAMSake sA paSuSIlayuktA#}. 
 		{#--kaM#} A solar day.<LEND>
 <L>11<pc>0002-a<k1>aMSuH<k2>aMSuH
 {#aMSuH#}¦ 
-			[{#aMS-mfga° ku#}.]
-				 {@1@} A ray, beam of light; {#caMqa°, Garma°#} hot-rayed, the sun; {#sUryAMSuBirBinnamivAraviMdaM#} <ls>Ku. 1. 32</ls>; lustre, brilliance; {#ratna°, naKa°#} &c. 
+			[{#aMS-mfga° ku#}.] 
+				{@1@} A ray, beam of light; {#caMqa°, Garma°#} hot-rayed, the sun; {#sUryAMSuBirBinnamivAraviMdaM#} <ls>Ku. 1. 32</ls>; lustre, brilliance; {#ratna°, naKa°#} &c. 
 				{@--2@} A point or end. 
 				{@--3@} A small or minute <lbinfo n="parti+cle"/> particle. 
 				{@--4@} End of a thread. 
@@ -64,15 +64,15 @@
 		{#--padfM#} a kind of silken cloth ({#aMSunA sUkzmasUtreRa yuktaM pawwaM#}) <lbinfo n="ls:Y.+ 1. 186"/> <ls>Y. 1. 186</ls>, <ls>Ms. 5. 120.</ls> 
 		{#--mAlA#} a garland of light, halo. 
 		{#--mAlin#} {%<ab>m.</ab>%} 
-			[{#aMSavaH#} {#mAleva, tataH astyarTe ini#}]
-				 {1} the sun (wreathed with, surrounded by, rays). {2} the number twelve. {3} having a collection of rays. 
+			[{#aMSavaH#} {#mAleva, tataH astyarTe ini#}] 
+				{1} the sun (wreathed with, surrounded by, rays). {2} the number twelve. {3} having a collection of rays. 
 		{#--hastaH#} 
-			[{#aMSuH hasta iva yasya#}]
-				 the sun (who draws up water from the earth by [Page0002-b+ 61] means of his 1000 hands in the form of rays).<LEND>
+			[{#aMSuH hasta iva yasya#}] 
+				the sun (who draws up water from the earth by [Page0002-b+ 61] means of his 1000 hands in the form of rays).<LEND>
 <L>12<pc>0002-b<k1>aMSumat<k2>aMSumat
 {#aMSumat#}¦ {%<ab>a.</ab>%} 
-			[{#aMSu-astyarTe matup#}]
-				 {@1@} <lbinfo n="Lu+minous"/> Luminous, radiant; {#jyotizAM raviraMSumAn#} <ls>Bg. 10. 21.</ls> 
+			[{#aMSu-astyarTe matup#}] 
+				{@1@} <lbinfo n="Lu+minous"/> Luminous, radiant; {#jyotizAM raviraMSumAn#} <ls>Bg. 10. 21.</ls> 
 				{@--2@} Pointed. 
 				{@--3@} Fibrous, abounding in filaments (<ab>Ved.</ab>). {%--<ab>m.</ab>%} ({#mAn#}) {@1@} The sun; <lbinfo n="vAlaKilyE#rivAMSumAn"/> {#vAlaKilyErivAMSumAn#} <ls>R. 15. 10</ls>, <ls>Ki. 11. 6</ls>, <lbinfo n="ls:Y. 3.+ 144"/> <ls>Y. 3. 144</ls>; sometimes the moon also. 
 				{@--2@} <ab>N.</ab> of the grandson of Sagara, son of Asamañjasa and father of Dilīpa. 
@@ -85,17 +85,15 @@
 				{@--3@} To speak.<LEND>
 <L>24<pc>0002-c<k1>aMhas<k2>aMhas
 {#aMhas#}¦ {%<ab>n.</ab>%} {#aMhaH --hasI#} &c. 
-			[{#am asun#} {#hukaca#} <ls>Uṇ. 4. 212</ls>, {#amati gacCati#} <lbinfo n="prAyaSci#ttena"/> {#prAyaScittena#}]
-				 {@1@} A sin; {#sahasA saMhatimaMhasAM vihaMtuM#} {#… alaM#} <ls>Ki. 5. 17</ls>; {#kftaH kftArTosmi#} <lbinfo n="ni#barhitAMhasA"/> {#nibarhitAMhasA#} <ls>Śi. 1. 29</ls>; leaving one's <lbinfo n="re+ligion"/> religion or duty ({#svaDarmatyAga#}). 
-				{@--2@} Trouble, anxiety, care. 
-			[{%<ab>cf.</ab>%} {#aGa, Agas#}; <ab>Gr.</ab> {%agos%}; {%ahos%}]
-				. {#°muc#} {%<ab>a.</ab>%} freeing from distress.<LEND>
+			[{#am asun#} {#hukaca#} <ls>Uṇ. 4. 212</ls>, {#amati gacCati#} <lbinfo n="prAyaSci#ttena"/> {#prAyaScittena#}] 
+				{@1@} A sin; {#sahasA saMhatimaMhasAM vihaMtuM#} {#… alaM#} <ls>Ki. 5. 17</ls>; {#kftaH kftArTosmi#} <lbinfo n="ni#barhitAMhasA"/> {#nibarhitAMhasA#} <ls>Śi. 1. 29</ls>; leaving one's <lbinfo n="re+ligion"/> religion or duty ({#svaDarmatyAga#}). 
+				{@--2@} Trouble, anxiety, care. [{%<ab>cf.</ab>%} {#aGa, Agas#}; <ab>Gr.</ab> {%agos%}; {%ahos%}]. {#°muc#} {%<ab>a.</ab>%} freeing from distress.<LEND>
 <L>25<pc>0002-c<k1>aMhasaspatiH<k2>aMhasaspatiH
 {#aMhasaspatiH#}¦ <ab>Ved.</ab> The intercalary month (lord of distress or <lbinfo n="per+plexity"/> perplexity?)<LEND>
 <L>28<pc>0002-c<k1>aMhu<k2>aMhu
 {#aMhu#}¦ {%<ab>a.</ab>%} 
-			[{#aMh mfga° ku#}]
-				 <ab>Ved.</ab> Sinful, wicked, injurious ({#pApakArin#}, <lbinfo n="ha#nanaSIla"/> {#hananaSIla#};) strait, narrow (?) 
+			[{#aMh mfga° ku#}] 
+				<ab>Ved.</ab> Sinful, wicked, injurious ({#pApakArin#}, <lbinfo n="ha#nanaSIla"/> {#hananaSIla#};) strait, narrow (?) 
 		{#--hu#} {%<ab>n.</ab>%} {@1@} Anxiety, distress; sin, crime (?). 
 				{@--2@} Pudendum Muliebre (?). [<ab>cf.</ab> <ab>L.</ab> {%angustus%}, {%anxius%}; <ab>Goth.</ab> {%aggvus%}]. 
 		{#--Beda --dI#} having a narrow slit; <lbinfo n="hav+ing"/> having the pudendum divided (?).<LEND>
