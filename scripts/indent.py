@@ -14,6 +14,12 @@ import os
 def remove_line_breaks(entry):
 	entry = entry.replace('\n<>', ' ')
 	entry = re.sub('[ ]+', ' ', entry)
+	entry = entry.replace('\n', '')
+	return entry
+
+
+def insert_tabs(entry, indent='\t'):
+	entry = entry.replace('{@--Comp.@}', '\n' + '{@--Comp.@}')
 	return entry
 
 
@@ -27,6 +33,7 @@ def adjust_text(filein, fileout):
 			entry = ''
 		elif lin.startswith('<LEND>'):
 			entry = remove_line_breaks(entry)
+			entry = insert_tabs(entry)
 			fout.write(entry + lin)
 		else:
 			entry += lin
