@@ -20,11 +20,12 @@ if __name__ == "__main__":
 		if lin.startswith('<L>'):
 			pass
 			fout.write(lin)
+			entry = ''
 		elif lin.startswith('<LEND>'):
-			fout.write('\n' + lin)
+			fout.write(entry + '\n' + lin)
 		else:
 			lin = lin.rstrip()
-			fout.write(lin)
+			entry += lin
 	fin.close()
 	fout.close()
 
