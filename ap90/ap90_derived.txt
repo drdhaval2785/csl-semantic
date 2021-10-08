@@ -15,7 +15,10 @@
 		{%<ab>a.</ab>%} ({#f#} being regarded as a consonant) Not a debtor, free from debt; {#divasasyAzwame BAge SAkaM pacati yo#} {#naraH . afRI cApravAsI ca sa vAricara#} {#modate ..#} <ls>Mb.</ls> The form {#anfRin#} also occurs in this sense.
 <LEND>
 <L>3<pc>0001-c<k1>aMS<k2>aMS
-{#aMS#}¦ {c10c} <ab>U.</ab> {#aMSayati-te#} To divide, distribute, share among; also <lbinfo n="aMSApa#yati"/> {#aMSApayati#} in this sense.
+{#aMS#}¦
+	 {c10c} <ab>U.</ab> 
+		{#aMSayati-te#} 
+			To divide, distribute, share among; also <lbinfo n="aMSApa#yati"/> {#aMSApayati#} in this sense.
 <LEND>
 <L>4<pc>0001-c<k1>aMSaH<k2>aMSaH
 {#aMSaH#}¦ 
@@ -94,7 +97,10 @@
 				{@--2@} <ab>N.</ab> of the river Yamunā.
 <LEND>
 <L>19<pc>0002-c<k1>aMh<k2>aMh
-{#aMh#}¦ {c1c} <ab>A.</ab> {#aMhate, aMhituM#} To go; <lbinfo n="ap+proach"/> approach; set out, <ls>Bk. 3. 25</ls>, <ls n="Bk. 3.">46</ls>; <ls n="Bk.">14. 51</ls>, <ls n="Bk.">4. 4</ls>. &c. 
+{#aMh#}¦
+	 {c1c} <ab>A.</ab> 
+		{#aMhate, aMhituM#} 
+			To go; <lbinfo n="ap+proach"/> approach; set out, <ls>Bk. 3. 25</ls>, <ls n="Bk. 3.">46</ls>; <ls n="Bk.">14. 51</ls>, <ls n="Bk.">4. 4</ls>. &c. 
 		{%--<ab>Caus.</ab>%} 
 				{@1@} To send; <lbinfo n="tamAM#jihanmETilayajYaBUmiM"/> {#tamAMjihanmETilayajYaBUmiM#} <ls>Bk. 2. 40</ls>, <ls n="Bk.">15. 75.</ls> 
 				{@--2@} To shine. 
