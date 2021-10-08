@@ -11,14 +11,10 @@
 				<P>{%N-B%}. --The application of this <lbinfo n="priva+tive"/> privative prefix is practically unlimited; to give every possible case would almost amount to a dictionary itself. No <lbinfo n="at+tempt"/> attempt will, therefore, be made to give {%every possible%} combination of this prefix with a following word; only such words as require a special explanation, or such as most frequently occur in the <lbinfo n="liter+ature"/> literature and enter into compounds, with other words, will be given; others will be found self-explaining when the English ‘in,’ ‘un,’ or ‘not,’ is substituted for {#a#} or {#an#} before the meaning of the second word, or the sense may be expressed by ‘less,’ ‘free from,’ ‘devoid or destitute of’ &c; {#akaTya#} unspeakable; {#adarpa#} <lbinfo n="with+out"/> without pride, or freedom from pride; <lbinfo n="apraga#lBa"/> {#apragalBa#} not bold; {#aBaga#} unfortunate; {#avitta#} [Page0001-c+ 42] destitute of wealth &c. &c. In many cases such compounds will be found <lbinfo n="ex+plained"/> explained under the second member. Most compounds beginning with {#a#} or {#an#} are either Tatpuruṣa or Bahuvrīhi (to be determined by the sense) and should be so dissolved.
 <LEND>
 <L>2<pc>0001-c<k1>afRin<k2>afRin
-{#afRin#}¦ 
-		{%<ab>a.</ab>%} ({#f#} being regarded as a consonant) Not a debtor, free from debt; {#divasasyAzwame BAge SAkaM pacati yo#} {#naraH . afRI cApravAsI ca sa vAricara#} {#modate ..#} <ls>Mb.</ls> The form {#anfRin#} also occurs in this sense.
+{#afRin#}¦ {%<ab>a.</ab>%} ({#f#} being regarded as a consonant) Not a debtor, free from debt; {#divasasyAzwame BAge SAkaM pacati yo#} {#naraH . afRI cApravAsI ca sa vAricara#} {#modate ..#} <ls>Mb.</ls> The form {#anfRin#} also occurs in this sense.
 <LEND>
 <L>3<pc>0001-c<k1>aMS<k2>aMS
-{#aMS#}¦
-	 {c10c} <ab>U.</ab> 
-		{#aMSayati-te#} 
-			To divide, distribute, share among; also <lbinfo n="aMSApa#yati"/> {#aMSApayati#} in this sense.
+{#aMS#}¦ {c10c} <ab>U.</ab> {#aMSayati-te#} To divide, distribute, share among; also <lbinfo n="aMSApa#yati"/> {#aMSApayati#} in this sense.
 <LEND>
 <L>4<pc>0001-c<k1>aMSaH<k2>aMSaH
 {#aMSaH#}¦ 
@@ -28,32 +24,19 @@
 				{@--3@} The numerator of a fraction; <lbinfo n="anyo#nyahArABihatO"/> {#anyonyahArABihatO harAMSO#} <ls>Līlā.</ls>; sometimes used for fraction itself. 
 				{@--4@} A degree of latitude (or longitude); {#akzasyAMSAH#} {#samAKyAtAH zazwyuttaraSatatrayam; sa ca aMSaH#} {#zazwikalAtmakaH, kalA tu zazwivikalAtmikA#}. 
 				{@--5@} The shoulder (more generally written {#aMsa#}, <ab>q. v.</ab>). 
-				{@--6@} <ab>N.</ab> of one of the Ādityas. The senses of ‘party’, ‘a share of booty,’ ‘earnest money’, which are said to occur in the Veda are traceable to 1. above. 
-{@--Comp.@} <lbinfo n="--aM#SaH"/> 
+				{@--6@} <ab>N.</ab> of one of the Ādityas. The senses of ‘party’, ‘a share of booty,’ ‘earnest money’, which are said to occur in the Veda are traceable to 1. above. {@--Comp.@} <lbinfo n="--aM#SaH"/> 
 		{#--aMSaH#} 
-			[{#za#}. {#ta#}.] 
-				a secondary incarnation; part of a portion. 
-		{#--aMSi#} 
-			{%<ab>adv.</ab>%} 
-				share by share. 
+			[{#za#}. {#ta#}.] a secondary incarnation; part of a portion. 
+		{#--aMSi#} {%<ab>adv.</ab>%} share by share. 
 		{#--avatAraH#} 
 		{#--taraRaM#} 
-			[{#za#}. {#ta#}.] 
-				descent (on earth) of parts of deities, partial [Page0002-a+ 60] incarnation; {#°tAra iva Darmasya#} <ls>Dk. 153</ls>; {#°ramiva kftAMtasya#} <ls>K. 31</ls>; {#uccEHSravasaH#} <ls n="K.">79</ls>; so {#aMSAvatIrRamiva#} <ls n="K.">108</ls>; <ab>N.</ab> of Adhyāyas 64-67 of Ādiparvan of Bhārata. <lbinfo n="--BA#j"/> 
-		{#--BAj#}, 
-		{#--hara, --hArin#} 
-			{%<ab>m.</ab>%} {%<ab>f.</ab>%} 
-				
-			[{#upa#}. {#samAsa#}] 
-				one who takes or has a share, one entitled to a share in the ancestral property, an heir, a coheir; {#piMqadoMSaharaScEzAM#} <lbinfo n="pUrvA#BAve"/> {#pUrvABAve paraH paraH#} <ls>Y. 2. 132</ls>; {#jAtopi dAsyAM#} {#SUdreRa kAmatoMSaharo Bavet#} <ls n="Y. 2.">133.</ls> 
-		{#--vivartin#} 
-			{%<ab>a.</ab>%} 
-				
-			[{#sa#}. {#ta#}.] 
-				slightly turned away, or turned away towards the shoulder; {#muKamaMSavivarti pakzmalAkzyAH#} <ls>Ś. 3. 26</ls> <ab>v. l.</ab> for {#aMsavivarti#}. 
+			[{#za#}. {#ta#}.] descent (on earth) of parts of deities, partial [Page0002-a+ 60] incarnation; {#°tAra iva Darmasya#} <ls>Dk. 153</ls>; {#°ramiva kftAMtasya#} <ls>K. 31</ls>; {#uccEHSravasaH#} <ls n="K.">79</ls>; so {#aMSAvatIrRamiva#} <ls n="K.">108</ls>; <ab>N.</ab> of Adhyāyas 64-67 of Ādiparvan of Bhārata. <lbinfo n="--BA#j"/> 
+		{#--BAj#}, {#--hara, --hArin#} {%<ab>m.</ab>%} {%<ab>f.</ab>%} 
+			[{#upa#}. {#samAsa#}] one who takes or has a share, one entitled to a share in the ancestral property, an heir, a coheir; {#piMqadoMSaharaScEzAM#} <lbinfo n="pUrvA#BAve"/> {#pUrvABAve paraH paraH#} <ls>Y. 2. 132</ls>; {#jAtopi dAsyAM#} {#SUdreRa kAmatoMSaharo Bavet#} <ls n="Y. 2.">133.</ls> 
+		{#--vivartin#} {%<ab>a.</ab>%} 
+			[{#sa#}. {#ta#}.] slightly turned away, or turned away towards the shoulder; {#muKamaMSavivarti pakzmalAkzyAH#} <ls>Ś. 3. 26</ls> <ab>v. l.</ab> for {#aMsavivarti#}. 
 		{#--savarRanaM#} 
-			[{#za#}. {#ta#}.] 
-				<lbinfo n="reduc+tion"/> reduction of fractions to the same <lbinfo n="denom+inator"/> denominator ({#atulyacCedayo rASyoH samacCedakaraRaM#}) {#anyonyahArABihatO harAMSO rASyoH#} <lbinfo n="samacCe#daviDAnamevam"/> {#samacCedaviDAnamevam#} <ls>Līlā.</ls> 
+			[{#za#}. {#ta#}.] <lbinfo n="reduc+tion"/> reduction of fractions to the same <lbinfo n="denom+inator"/> denominator ({#atulyacCedayo rASyoH samacCedakaraRaM#}) {#anyonyahArABihatO harAMSO rASyoH#} <lbinfo n="samacCe#daviDAnamevam"/> {#samacCedaviDAnamevam#} <ls>Līlā.</ls> 
 		{#--svaraH#} the keynote.
 <LEND>
 <L>5<pc>0002-a<k1>aMSakaH<k2>aMSakaH
@@ -73,70 +56,59 @@
 				{@--5@} A filament, especially of the Soma plant (<ab>Ved.</ab>) 
 				{@--6@} Garment; decoration. 
 				{@--7@} <ab>N.</ab> of a sage or of a prince. 
-				{@--8@} Speed, velocity ({#vega#}). 
-{@--Comp.@} 
+				{@--8@} Speed, velocity ({#vega#}). {@--Comp.@} 
 		{#--jAlaM#} a <lbinfo n="col+lection"/> collection of rays, a blaze or halo of light. 
-		{#--DaraH#}, 
-		{#--patiH --Bft, --bARaH--Bartf#}. <lbinfo n="--"/> 
+		{#--DaraH#}, {#--patiH --Bft, --bARaH--Bartf#}. <lbinfo n="--"/> 
 		{#--svAmI#} the sun, (bearer of rays or lord of rays). 
 		{#--padfM#} a kind of silken cloth ({#aMSunA sUkzmasUtreRa yuktaM pawwaM#}) <lbinfo n="ls:Y.+ 1. 186"/> <ls>Y. 1. 186</ls>, <ls>Ms. 5. 120.</ls> 
 		{#--mAlA#} a garland of light, halo. 
-		{#--mAlin#} 
-			{%<ab>m.</ab>%} 
-				
-			[{#aMSavaH#} {#mAleva, tataH astyarTe ini#}] 
-				{1} the sun (wreathed with, surrounded by, rays). {2} the number twelve. {3} having a collection of rays. 
+		{#--mAlin#} {%<ab>m.</ab>%} 
+			[{#aMSavaH#} {#mAleva, tataH astyarTe ini#}] {1} the sun (wreathed with, surrounded by, rays). {2} the number twelve. {3} having a collection of rays. 
 		{#--hastaH#} 
-			[{#aMSuH hasta iva yasya#}] 
-				the sun (who draws up water from the earth by [Page0002-b+ 61] means of his 1000 hands in the form of rays).
+			[{#aMSuH hasta iva yasya#}] the sun (who draws up water from the earth by [Page0002-b+ 61] means of his 1000 hands in the form of rays).
 <LEND>
 <L>12<pc>0002-b<k1>aMSumat<k2>aMSumat
-{#aMSumat#}¦ 
-		{%<ab>a.</ab>%} 
+{#aMSumat#}¦ {%<ab>a.</ab>%} 
 			[{#aMSu-astyarTe matup#}] 
 				{@1@} <lbinfo n="Lu+minous"/> Luminous, radiant; {#jyotizAM raviraMSumAn#} <ls>Bg. 10. 21.</ls> 
 				{@--2@} Pointed. 
 				{@--3@} Fibrous, abounding in filaments (<ab>Ved.</ab>). 
-		{%--<ab>m.</ab>%} 
-				({#mAn#}) {@1@} The sun; <lbinfo n="vAlaKilyE#rivAMSumAn"/> {#vAlaKilyErivAMSumAn#} <ls>R. 15. 10</ls>, <ls>Ki. 11. 6</ls>, <lbinfo n="ls:Y. 3.+ 144"/> <ls>Y. 3. 144</ls>; sometimes the moon also. 
+		{%--<ab>m.</ab>%} ({#mAn#}) 
+				{@1@} The sun; <lbinfo n="vAlaKilyE#rivAMSumAn"/> {#vAlaKilyErivAMSumAn#} <ls>R. 15. 10</ls>, <ls>Ki. 11. 6</ls>, <lbinfo n="ls:Y. 3.+ 144"/> <ls>Y. 3. 144</ls>; sometimes the moon also. 
 				{@--2@} <ab>N.</ab> of the grandson of Sagara, son of Asamañjasa and father of Dilīpa. 
 				{@--3@} <ab>N.</ab> of a mountain; {#°matPalA#} <ab>N.</ab> of a plant {#kadalI#} Musa Sapientum or <lbinfo n="Pa+radisiaca"/> Paradisiaca. 
-		{#--tI#} {@1@} <ab>N.</ab> of a plant <lbinfo n="sAla#parRI"/> {#sAlaparRI#} (<ab>Mar.</ab> {#qavalA, sAlavaRa#}) Hedysarum Gangeticum. 
+		{#--tI#} 
+				{@1@} <ab>N.</ab> of a plant <lbinfo n="sAla#parRI"/> {#sAlaparRI#} (<ab>Mar.</ab> {#qavalA, sAlavaRa#}) Hedysarum Gangeticum. 
 				{@--2@} <ab>N.</ab> of the river Yamunā.
 <LEND>
 <L>19<pc>0002-c<k1>aMh<k2>aMh
-{#aMh#}¦
-	 {c1c} <ab>A.</ab> 
-		{#aMhate, aMhituM#} 
-			To go; <lbinfo n="ap+proach"/> approach; set out, <ls>Bk. 3. 25</ls>, <ls n="Bk. 3.">46</ls>; <ls n="Bk.">14. 51</ls>, <ls n="Bk.">4. 4</ls>. &c. 
+{#aMh#}¦ {c1c} <ab>A.</ab> {#aMhate, aMhituM#} To go; <lbinfo n="ap+proach"/> approach; set out, <ls>Bk. 3. 25</ls>, <ls n="Bk. 3.">46</ls>; <ls n="Bk.">14. 51</ls>, <ls n="Bk.">4. 4</ls>. &c. 
 		{%--<ab>Caus.</ab>%} 
 				{@1@} To send; <lbinfo n="tamAM#jihanmETilayajYaBUmiM"/> {#tamAMjihanmETilayajYaBUmiM#} <ls>Bk. 2. 40</ls>, <ls n="Bk.">15. 75.</ls> 
 				{@--2@} To shine. 
 				{@--3@} To speak.
 <LEND>
 <L>24<pc>0002-c<k1>aMhas<k2>aMhas
-{#aMhas#}¦ 
-		{%<ab>n.</ab>%} {#aMhaH --hasI#} &c. 
+{#aMhas#}¦ {%<ab>n.</ab>%} {#aMhaH --hasI#} &c. 
 			[{#am asun#} {#hukaca#} <ls>Uṇ. 4. 212</ls>, {#amati gacCati#} <lbinfo n="prAyaSci#ttena"/> {#prAyaScittena#}] 
 				{@1@} A sin; {#sahasA saMhatimaMhasAM vihaMtuM#} {#… alaM#} <ls>Ki. 5. 17</ls>; {#kftaH kftArTosmi#} <lbinfo n="ni#barhitAMhasA"/> {#nibarhitAMhasA#} <ls>Śi. 1. 29</ls>; leaving one's <lbinfo n="re+ligion"/> religion or duty ({#svaDarmatyAga#}). 
-				{@--2@} Trouble, anxiety, care. [{%<ab>cf.</ab>%} {#aGa, Agas#}; <ab>Gr.</ab> {%agos%}; {%ahos%}]. {#°muc#} {%<ab>a.</ab>%} freeing from distress.
+				{@--2@} Trouble, anxiety, care. 
+			[{%<ab>cf.</ab>%} {#aGa, Agas#}; <ab>Gr.</ab> {%agos%}; {%ahos%}]. {#°muc#} {%<ab>a.</ab>%} freeing from distress.
 <LEND>
 <L>25<pc>0002-c<k1>aMhasaspatiH<k2>aMhasaspatiH
 {#aMhasaspatiH#}¦ <ab>Ved.</ab> The intercalary month (lord of distress or <lbinfo n="per+plexity"/> perplexity?)
 <LEND>
 <L>28<pc>0002-c<k1>aMhu<k2>aMhu
-{#aMhu#}¦ 
-		{%<ab>a.</ab>%} 
-			[{#aMh mfga° ku#}] 
-				<ab>Ved.</ab> Sinful, wicked, injurious ({#pApakArin#}, <lbinfo n="ha#nanaSIla"/> {#hananaSIla#};) strait, narrow (?) 
-		{#--hu#} 
-			{%<ab>n.</ab>%} 
+{#aMhu#}¦ {%<ab>a.</ab>%} 
+			[{#aMh mfga° ku#}] <ab>Ved.</ab> Sinful, wicked, injurious ({#pApakArin#}, <lbinfo n="ha#nanaSIla"/> {#hananaSIla#};) strait, narrow (?) 
+		{#--hu#} {%<ab>n.</ab>%} 
 				{@1@} Anxiety, distress; sin, crime (?). 
-				{@--2@} Pudendum Muliebre (?). [<ab>cf.</ab> <ab>L.</ab> {%angustus%}, {%anxius%}; <ab>Goth.</ab> {%aggvus%}]. 
-		{#--Beda --dI#} having a narrow slit; <lbinfo n="hav+ing"/> having the pudendum divided (?).
+				{@--2@} Pudendum Muliebre (?). 
+			[<ab>cf.</ab> <ab>L.</ab> {%angustus%}, {%anxius%}; <ab>Goth.</ab> {%aggvus%}]. {#--Beda --dI#} having a narrow slit; <lbinfo n="hav+ing"/> having the pudendum divided (?).
 <LEND>
 <L>11373<pc>0417-a<k1>kf<k2>kf
-{#kf#}¦ {vI.v} {c5c} <ab>U.</ab> ({#kfRoti-kfRute#}) To hurt, injure, kill. {vII.v} {c8c} <ab>U.</ab> ({#karoti-kurute#}, {#cakAra-cakre, akArzIt-akfta, kartuM, karizyati-te#}, {#kfta#}) {@1@} To do (in general); {#tAta#} <lbinfo n="kiM#karavARyahaM"/>[Page0417-b+ 57] {#kiMkaravARyahaM#}. 
+{#kf#}¦ {vI.v} {c5c} <ab>U.</ab> ({#kfRoti-kfRute#}) To hurt, injure, kill. {vII.v} {c8c} <ab>U.</ab> ({#karoti-kurute#}, {#cakAra-cakre, akArzIt-akfta, kartuM, karizyati-te#}, {#kfta#}) 
+				{@1@} To do (in general); {#tAta#} <lbinfo n="kiM#karavARyahaM"/>[Page0417-b+ 57] {#kiMkaravARyahaM#}. 
 				{@--2@} To make; <lbinfo n="gaRikAmavaro#Damakarot"/> {#gaRikAmavaroDamakarot#} Dk; {#nfpeRa cakre#} <lbinfo n="yuvarAjaSabda#BAk"/> {#yuvarAjaSabdaBAk#} <ls>R. 3. 35</ls>; {#yuvarAjaH kftaH#} &c. 
 				{@--3@} To manufacture, shape, prepare; {#kuMBakAro GawaM karoti; kawaM karoti#} &c. 
 				{@--4@} To build, create; {#gfhaM kuru; saBAM#} {#kuru madarTe BoH#} 
@@ -172,13 +144,12 @@
 				{@--34@} To proceed with, put in practice. 
 				{@--35@} To <lbinfo n="wor+ship"/> worship, sacrifice. 
 				{@--36@} To make like, consider equal to, <ab>cf.</ab> {#tfRIkf#} (said to be <ab>Atm.</ab> only in the last 10 senses). This root is often used with nouns, adjectives, and <lbinfo n="indeclin+ables"/> indeclinables to form verbs from them, <lbinfo n="some+what"/> somewhat like the English affixes ‘en’ or ‘(i) fy’, in the sense of ‘making a person or thing to be what it previously is not’; {%<ab>e. g.</ab>%} {#kfzRIkf#} to make that which is not already black, black, {%<ab>i. e.</ab>%} blacken; so <lbinfo n="SvetI#kf"/> {#SvetIkf#} to whiten; {#GanIkf#} to solidify; {#viralIkf#} to rarefy &c. &c. <lbinfo n="Some+times"/> Sometimes these formations take place in other senses also; {%<ab>e. g.</ab>%} {#kroqIkf#} ‘to clasp to the bosom’, embrace {#BasmIkf#} to reduce to ashes; {#pravaRIkf#} to incline, bend; {#tfRIkf#} to value as little as straw; {#maMdIkf#} to slacken, make slow; so {#SUlAkf#} to roast on the end of pointed lances; {#suKAkf#} to please; {#samayAkf#} to spend time &c. {%<ab>N. B.</ab>%} This root by itself admits of either Pada; but it is <ab>Atm.</ab> <lbinfo n="general+ly"/> generally with prepositions in the following senses:--(1) doing injury to; (2) censure, blame; (3) serving; (4) outraging, acting violently or rashly; (5) preparing, changing the <lbinfo n="condi+tion"/> condition of, turning into; (6) reciting. (7) employing, using; see <lbinfo n="ls:P. I. 3.+32"/> <ls>P. I. 3. 32</ls> and “Student's Guide to Sanskrit Composition” § 338. {%Note%}. The root {#kf#} is of the most frequent application in Sanskrit literature, and its senses are variously modified, or almost <lbinfo n="in+finitely"/> infinitely extended, according to the noun with which the root is <lbinfo n="connect+ed"/> connected; {%<ab>e. g.</ab>%} {#padaM kf#} to set foot (<ab>fig.</ab> also); {#ASrame padaM karizyasi#} <ls>Ś. 4. 19</ls>; {#krameRa#} {#kftaM mama vapuzi navayOvanena padaM#} <ls>K. 141</ls>; <lbinfo n="mana#sA"/> {#manasA kf#} to think of, meditate; {#manasi kf#} to think; {#dfzwvA manasyevamakarot#} <ls>K. 136</ls>; or to resolve or determine; {#saKyaM, mEtrIM#} {#kf#} to form friendship with; {#astrARi#} {#kf#} to practise the use of weapons; {#daMqaM kf#} to inflict punishment; {#hfdaye kf#} [Page0418-a+ 57] to pay heed to; {#kAlaM kf#} to die; {#matiM#} {#dudDiM-kf#} to think of, intend, mean; {#udakaM kf#} to offer libations of water to the Manes; {#ciraM kf#} to delay; {#darduraM kf#} to play on the lute; {#naKAni kf#} to clean the nails; {#kanyAM kf#} to <lbinfo n="out+rage"/> outrage or violate a maiden; {#vinA kf#} to separate from, to be abandoned by, as in {#madanena vinAkftA ratiH#} <lbinfo n="ls:Ku.+ 4. 21"/> <ls>Ku. 4. 21</ls>; {#maDye kf#} to place in the middle, to have reference to; {#maDyekftya sTitaM#} {#kraTakESikAn#} <ls>M. 5. 2</ls>; {#vaSe kf#} to win over, place in subjection, subdue; {#camatkf#} to cause surprise; make an exhibition or a show; {#satkf#} to honour, treat with respect; {#tiryakkf#} to place aside. 
-		{%--<ab>Caus.</ab>%} 
-				({#kArayati-te#}) To cause to do, perform, make, execute &c.; {#AjYAM kAraya rakzeBiH#} <ls>Bk. 8. 84</ls>; {#BftyaM#} <lbinfo n="Bftye#na"/> {#Bftyena vA kawaM kArayati#} <ls>Sk.</ls> 
-		{%--<ab>Desid.</ab>%} 
-				<lbinfo n="cikIrzIti+-te"/> ({#cikIrzIti-te#}) To wish to do &c.; <ls>Śi. 14. 41.</ls>
+		{%--<ab>Caus.</ab>%} ({#kArayati-te#}) To cause to do, perform, make, execute &c.; {#AjYAM kAraya rakzeBiH#} <ls>Bk. 8. 84</ls>; {#BftyaM#} <lbinfo n="Bftye#na"/> {#Bftyena vA kawaM kArayati#} <ls>Sk.</ls> 
+		{%--<ab>Desid.</ab>%} <lbinfo n="cikIrzIti+-te"/> ({#cikIrzIti-te#}) To wish to do &c.; <ls>Śi. 14. 41.</ls>
 <LEND>
 <L>22244<pc>0820-a<k1>BU<k2>BU
-{#BU#}¦ {vI.v} {c1c} <ab>P.</ab> (rarely A.) ({#Bavati, baBUva#}, {#aBUt, Bavizyati, BavituM, BUta#}) {@1@} To be, become; {#kaTamevaM BavennAma; asyAH#} <lbinfo n="kima#Bavat"/> {#kimaBavat#} <ls>Māl. 9. 29</ls> ‘what has become her fate,’ ‘what has become of her’; <ls>U. 3. 27</ls>; {#yadBAvi tadBavatu#} <ls>U. 3</ls> ‘come what may’; so {#duHKito Bavati, hfzwo#} <lbinfo n="Ba#vati"/> {#Bavati#} &c. 
+{#BU#}¦ {vI.v} {c1c} <ab>P.</ab> (rarely A.) ({#Bavati, baBUva#}, {#aBUt, Bavizyati, BavituM, BUta#}) 
+				{@1@} To be, become; {#kaTamevaM BavennAma; asyAH#} <lbinfo n="kima#Bavat"/> {#kimaBavat#} <ls>Māl. 9. 29</ls> ‘what has become her fate,’ ‘what has become of her’; <ls>U. 3. 27</ls>; {#yadBAvi tadBavatu#} <ls>U. 3</ls> ‘come what may’; so {#duHKito Bavati, hfzwo#} <lbinfo n="Ba#vati"/> {#Bavati#} &c. 
 				{@--2@} To be born or produced; {#yadapatyaM BavedasyAM#} <ls>Ms. 9. 127</ls>; <lbinfo n="BAgyakra#meRa"/> {#BAgyakrameRa hi DanAni BavaMti yAMti#} <ls>Mk. 1. 13.</ls> 
 				{@--3@} To spring or proceed from, arise; {#kroDAdBavati saMmohaH#} <ls>Bg. 2. 63</ls>, <ls n="Bg.">14. 17.</ls> 
 				{@--4@} To happen, take place, occur; {#nAtatAyivaDe dozo haMturBavati kaScana#} <lbinfo n="ls:Ms. 8.+ 381"/> <ls>Ms. 8. 381</ls>; {#yadi saMSayo Bavet#} &c. 
@@ -194,8 +165,8 @@
 				{@--14@} To be engaged in, be <lbinfo n="occu+pied"/> occupied (with <ab>loc.</ab>); {#caraRakzAlane kfzRo#} {#brAhmaRAnAM svayaM hyaBUt#} <ls>Mb.</ls> 
 				{@--15@} To conduct oneself, behave. 
 				{@--16@} <ab>Ved.</ab> To be prosperous, succeed. Used with a preceding noun or adjective {#BU#} serves to form verbs in the sense of ‘becoming what it previously is not’ or ‘becoming’ in general; <lbinfo n="Sve#tIBU"/> {#SvetIBU#} to become white; {#kfzRIBU#} to become black; {#payoDarIBUta#} <lbinfo n="‘becom+ing"/> ‘becoming or serving the purpose of teats’; so {#kzapaRIBU#} to be or become a <lbinfo n="mendi+cant"/> mendicant; {#praRiDIBU#} to act the spy; <lbinfo n="A#rdrIBU"/> {#ArdrIBU#} to melt; {#BasmIBU#} to be reduced to ashes; {#vizayIBU#} to form the <lbinfo n="sub+ject"/> subject of; so {#ekamatIBU; taruRIBU#} &c. &c. {%Note%}--The senses of {#BU#} may be <lbinfo n="vari+ously"/> variously modified according to the <lbinfo n="ad+verbs"/> adverbs with which it is connected; {%<ab>e. g.</ab>%} {#punarBU#} to marry again; {#a virBU#} to appear, arise, to be evident or clear; see {#Avis; tiroBU#} to disappear; {#prAdurBU#} to arise, be visible, appear; {#agreBU#} to be in front, take the lead; {#aMtarBU#} to be absorbed or included; <lbinfo n="ojasyaMtarBavaM#tyanye"/> {#ojasyaMtarBavaMtyanye#} <ls>K. P. 8</ls>; {#dozABU#} to grow <lbinfo n="even+ing"/> evening or dusk-time; {#anyaTA BU#} to be otherwise, be changed; {#na me#} <lbinfo n="vacana#manyaTA"/> {#vacanamanyaTA Bavitumarhati#} <ls>Ś. 4</ls>; {#puro BU#} to come forward, stand forth; {#miTyA BU#} to turn out false; {#vfTA BU#} to become useless &c. &c. 
-		{%--<ab>Caus.</ab>%} 
-				({#BAvayati-te#}) {@1@} To cause to be or become, call into existence, call into being. 
+		{%--<ab>Caus.</ab>%} ({#BAvayati-te#}) 
+				{@1@} To cause to be or become, call into existence, call into being. 
 				{@--2@} [Page0820-c+ 57] To cause, produce, effect. 
 				{@--3@} To manifest, display, exhibit. 
 				{@--4@} To foster, cherish, support, preserve, enliven; {#punaH sfjati varzARi BagavAn#} <lbinfo n="BA#vayanprajAH"/> {#BAvayanprajAH#} <ls>Mb.</ls>; {#devAn BAvayatAnena te#} {#devA BAvayaMtu vaH . parasparaM BAvayaMtaH SreyaH#} {#paramavApsyaTa#} <ls>Bg. 3. 11</ls>; <ls>Bk. 16. 27.</ls> 
@@ -210,8 +181,8 @@
 				{@--13@} To devote or addict <lbinfo n="one+self"/> oneself to. 
 				{@--14@} To convince. 
 				{@--15@} To <lbinfo n="per+fume"/> perfume, scent. 
-		{%--<ab>Desid.</ab>%} 
-				({#buBUzati#}) To wish to be or become &c. {vII.v} {c1c} <ab>U.</ab> ({#Bavati-te#}) To get, obtain. {vIII.v} <lbinfo n="10+A."/> {c10c} <ab>A.</ab> ({#BAvayate#}) To obtain, gain. {vIV.v} {c10c} <ab>U.</ab> ({#BAvayati-te#}) {@1@} To think, <lbinfo n="re+flect"/> reflect. 
+		{%--<ab>Desid.</ab>%} ({#buBUzati#}) To wish to be or become &c. {vII.v} {c1c} <ab>U.</ab> ({#Bavati-te#}) To get, obtain. {vIII.v} <lbinfo n="10+A."/> {c10c} <ab>A.</ab> ({#BAvayate#}) To obtain, gain. {vIV.v} {c10c} <ab>U.</ab> ({#BAvayati-te#}) 
+				{@1@} To think, <lbinfo n="re+flect"/> reflect. 
 				{@--2@} To mix, mingle. 
 				{@--3@} To be purified (connected with caus. of {#BU#} <ab>q. v.</ab> above).
 <LEND>
