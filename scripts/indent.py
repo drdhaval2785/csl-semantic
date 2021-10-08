@@ -27,7 +27,7 @@ def insert_tabs(entry, t='\t', l='\n'):
 	entry = re.sub('\[({.*?)\] ', l + t*3 + '[\g<1>] ' + l + t*4 , entry)
 	entry = re.sub('({@\-\-[0-9])', l + t*4 + '\g<1>', entry)
 	entry = entry.replace('<P>', l + t*4 + '<P>')
-	#entry = re.sub('({%<ab>.*?</ab>%} )', '\g<1>' + l + t*3, entry)
+	entry = re.sub('({#\-\-.*?#} )({%<ab>.*</ab>%} )([^\[])', '\g<1>' + l + t*3 + '\g<2>' + l + t*4 + '\g<3>', entry)
 	# Verb section
 	entry = re.sub('( {[cv].*?</ab> )({#.*?#} )', l + t + '\g<1>' + l + t*2 + '\g<2>' + l + t*3, entry)
 	return entry

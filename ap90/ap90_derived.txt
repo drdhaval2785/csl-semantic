@@ -33,16 +33,22 @@
 		{#--aMSaH#} 
 			[{#za#}. {#ta#}.] 
 				a secondary incarnation; part of a portion. 
-		{#--aMSi#} {%<ab>adv.</ab>%} share by share. 
+		{#--aMSi#} 
+			{%<ab>adv.</ab>%} 
+				share by share. 
 		{#--avatAraH#} 
 		{#--taraRaM#} 
 			[{#za#}. {#ta#}.] 
 				descent (on earth) of parts of deities, partial [Page0002-a+ 60] incarnation; {#°tAra iva Darmasya#} <ls>Dk. 153</ls>; {#°ramiva kftAMtasya#} <ls>K. 31</ls>; {#uccEHSravasaH#} <ls n="K.">79</ls>; so {#aMSAvatIrRamiva#} <ls n="K.">108</ls>; <ab>N.</ab> of Adhyāyas 64-67 of Ādiparvan of Bhārata. <lbinfo n="--BA#j"/> 
 		{#--BAj#}, 
-		{#--hara, --hArin#} {%<ab>m.</ab>%} {%<ab>f.</ab>%} 
+		{#--hara, --hArin#} 
+			{%<ab>m.</ab>%} {%<ab>f.</ab>%} 
+				
 			[{#upa#}. {#samAsa#}] 
 				one who takes or has a share, one entitled to a share in the ancestral property, an heir, a coheir; {#piMqadoMSaharaScEzAM#} <lbinfo n="pUrvA#BAve"/> {#pUrvABAve paraH paraH#} <ls>Y. 2. 132</ls>; {#jAtopi dAsyAM#} {#SUdreRa kAmatoMSaharo Bavet#} <ls n="Y. 2.">133.</ls> 
-		{#--vivartin#} {%<ab>a.</ab>%} 
+		{#--vivartin#} 
+			{%<ab>a.</ab>%} 
+				
 			[{#sa#}. {#ta#}.] 
 				slightly turned away, or turned away towards the shoulder; {#muKamaMSavivarti pakzmalAkzyAH#} <ls>Ś. 3. 26</ls> <ab>v. l.</ab> for {#aMsavivarti#}. 
 		{#--savarRanaM#} 
@@ -75,7 +81,9 @@
 		{#--svAmI#} the sun, (bearer of rays or lord of rays). 
 		{#--padfM#} a kind of silken cloth ({#aMSunA sUkzmasUtreRa yuktaM pawwaM#}) <lbinfo n="ls:Y.+ 1. 186"/> <ls>Y. 1. 186</ls>, <ls>Ms. 5. 120.</ls> 
 		{#--mAlA#} a garland of light, halo. 
-		{#--mAlin#} {%<ab>m.</ab>%} 
+		{#--mAlin#} 
+			{%<ab>m.</ab>%} 
+				
 			[{#aMSavaH#} {#mAleva, tataH astyarTe ini#}] 
 				{1} the sun (wreathed with, surrounded by, rays). {2} the number twelve. {3} having a collection of rays. 
 		{#--hastaH#} 
@@ -121,7 +129,9 @@
 		{%<ab>a.</ab>%} 
 			[{#aMh mfga° ku#}] 
 				<ab>Ved.</ab> Sinful, wicked, injurious ({#pApakArin#}, <lbinfo n="ha#nanaSIla"/> {#hananaSIla#};) strait, narrow (?) 
-		{#--hu#} {%<ab>n.</ab>%} {@1@} Anxiety, distress; sin, crime (?). 
+		{#--hu#} 
+			{%<ab>n.</ab>%} 
+				{@1@} Anxiety, distress; sin, crime (?). 
 				{@--2@} Pudendum Muliebre (?). [<ab>cf.</ab> <ab>L.</ab> {%angustus%}, {%anxius%}; <ab>Goth.</ab> {%aggvus%}]. 
 		{#--Beda --dI#} having a narrow slit; <lbinfo n="hav+ing"/> having the pudendum divided (?).
 <LEND>
